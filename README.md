@@ -23,11 +23,11 @@
 
 ## 📊 Mi actividad en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanDiegoMolina&show_icons=true&theme=tokyonight)
 
 ## 🔥 Racha de contribuciones
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=JuanDiegoMolina&theme=tokyonight)
 
 ---
 

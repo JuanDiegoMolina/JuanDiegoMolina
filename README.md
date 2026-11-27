@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**JuanDiegoMolina/JuanDiegoMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Juan Diego
 
-Here are some ideas to get you started:
+💻 Desarrollador apasionado por la programación y la tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Lenguajes que conozco
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,python" />
+</p>
+
+- ☕ Java
+- 🌐 HTML
+- 🎨 CSS
+- 🐍 Python
+
+## 📚 Sobre mí
+
+- 💻 Me gusta desarrollar y crear proyectos.
+- 🚀 Siempre estoy aprendiendo nuevas tecnologías.
+- 🔧 Me interesa el desarrollo de software y web.
+- 🎯 Mi objetivo es seguir mejorando como programador.
+
+## 📊 Mi actividad en GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
+## 🔥 Racha de contribuciones
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight)
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!
